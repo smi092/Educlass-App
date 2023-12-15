@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223001023120",
+    "project_id": "educlass-de043",
+    "storage_bucket": "educlass-de043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223001023120:android:172e374fc3ead873b5be15",
+        "android_client_info": {
+          "package_name": "com.example.educlass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223001023120-qoa9ofifk9gmeu49nep1lbufiu66ka6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkvqXHRrSPcnrgI5vc7hYTTv6LwkmSIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223001023120-qoa9ofifk9gmeu49nep1lbufiu66ka6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
